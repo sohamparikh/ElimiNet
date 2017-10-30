@@ -16,14 +16,16 @@ This repo contains the code for [ElimiNet](https://openreview.net/forum?id=B1bgp
 ## Usage
 ### Preprocessing
     * python preprocess.py
-### Pre-trained ElimiNet
-    *For training: bash train_PRE.sh
-    *For testing: bash test.sh
-### End-to-end ElimiNet
-    *For training: bash train_E2E.sh
-    *For testing bash test.sh
+### Training
+Create an "obj" directory. Models to be stored here.
+#### Pre-trained ElimiNet
+    * For training: bash train_PRE.sh
+    * For testing: bash test.sh
+#### End-to-end ElimiNet
+    * For training: bash train_E2E.sh
+    * For testing: bash test.sh
 ## Acknowledgement
-*This code is adapted from  repo for [RACE baseline](https://github.com/qizhex/RACE_AR_baselines)
+* This code is adapted from  repo for [RACE baseline](https://github.com/qizhex/RACE_AR_baselines)
 
 ## Contact
-*Please contact Soham Parikh (sohamp AT cse DOT iitm DOT ac DOT in) for clarification/bugs in the code.
+* Please contact Soham Parikh (sohamp AT cse DOT iitm DOT ac DOT in) for clarification/bugs in the code.
