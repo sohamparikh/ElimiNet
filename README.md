@@ -1,5 +1,5 @@
 # ElimiNet
-This repo contains the code for [ElimiNet](https://openreview.net/forum?id=B1bgpzZAZ&noteId=B1bgpzZAZ) paper submitted to ICLR 2018. 
+This repo contains the code for [ElimiNet](https://www.ijcai.org/proceedings/2018/594) paper published in the proceedings of IJCAI-ECAI-2018. 
 
 ## Dependencies
 * Python 2.7
@@ -28,4 +28,4 @@ Create an "obj" directory. Models to be stored here.
 * This code is adapted from  repo for [RACE baseline](https://github.com/qizhex/RACE_AR_baselines)
 
 ## Contact
-* Please contact Soham Parikh (sohamp AT cse DOT iitm DOT ac DOT in) for clarification/bugs in the code.
+* Please contact Soham Parikh (sohamp@seas.upenn.edu) for clarification/bugs in the code.
